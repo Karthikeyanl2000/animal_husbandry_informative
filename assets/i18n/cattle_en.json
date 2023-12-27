@@ -1,0 +1,411 @@
+{
+    "app_bar" :{
+        "title" : "Cattle Information"
+    },
+"language":{
+    "name": 
+		{
+			"en": "English"
+        },
+
+    "cattlePoints": {
+      "heading": [
+        "Breeds of cattle",
+        "Care and Management of dairy animal",
+        "Economic characters in dairy cattle",
+        "Selection of dairy cattle",
+        "Daily operational schedule",
+        "Culling of dairy animals",
+        "Housing of dairy cattle",
+        "Disease management",
+        "Dairy farm record keeping",
+        "Feed management",
+        "Reproduction",
+        "Milking management",
+        "Artificial insemination"
+      ],
+
+ "heading_Details":{
+
+      "Breed_Details": [
+
+        "Breeds of cattle:",
+          "Indigenous",
+          "Exotic",
+          "Cross breeds",
+
+        "Indigenous:",
+            "Gir:",
+                "This breed is otherwise known as Bhadawari, Desan, Gujarati, Kathiawari, Sorthi, and Surati.",
+                "Originated inGir forests of South Kathiawar in Gujarat also found in Maharashtra and adjacent Rajasthan.",
+                "Basic colours of skin are white with dark red or chocolate-brown patches or sometimes black or purely red",
+                "Horns are peculiarly curved, giving a ‘half moon’ appearance.",
+                "This is known for its hardiness and disease resistance.",
+                "Milk yield ranges from 1200-1800 kgs per lactation",
+                "Age at first calving 45-54 months and inter calving period from 515 to 600 days",
+            
+            "Red Sindhi:",
+                "This breed is otherwise called as Red Karachi and Sindhi and Mahi",
+                "Originated in Karachi and Hyderabad (Pakistan) regions of undivided India and also reared in certain organized farms in our country",
+                "Colour is red with shades varying from dark red to light, strips of white",
+                "Milk yield ranges from 1250 to 1800 kg per lactation",
+                "Bullocks despite lethargic and slow can be used for road and field work",
+                "Age at first calving 39-50 months and inter calving period from 425-540 days",
+            
+            "Sahiwal:",
+                "Originated in Montgomery region of undivided India.",
+                "This breed otherwise known as Lola (loose skin), Lambi Bar, Montgomery, Multani, Teli.",
+                "The best indigenous dairy breed.",
+                "The colour is reddish dun or pale red, sometimes flashed with white patches.",
+                "Heavy breed with symmetrical body having loose skin.",
+                "The average milk yield of this breed is between 1400 and 2500 kg per lactation.",
+                "Age at first calving ranges from 37 to 48 months and the calving interval is 430 to 580 days.",
+            
+            "Hallikar:",
+                "Originated from the former princely state of Vijayanagarm, presently part of Karnataka.",
+                "The colour is grey or dark grey.",
+                "They are compact, muscular and medium size animal with prominent forehead, long horns and strong legs.",
+                "The breed is best known for its draught capacity and especially for its trotting ability",
+          
+
+            "Amritmahal:",
+            "Originated in Hassan, Chikmagalur and Chitradurga district of Karnataka.",
+            "The Maharajahs of Mysore developed this breed.",
+            "Amiritmahals are grey cattle but their shade varies from almost white to near black.",
+            "The muzzle, feat and tail are usually black.",
+            "Horns are long and end in sharp black points.",
+            
+
+            "Khillari:",
+                "Originated fromSholapur and Sitapur districts of Maharashtra.",
+                "Closely resembles Hallikar breed.",
+                "Grey-white in colour. New borns have dusty red colour which disappears in couple of months.",
+                "Long horns turn forwards in a peculiar fashion. The horns are generally black, sometimes pinkish.",
+                "Bullocks are fast and powerful.",
+            
+            "Kangayam:",
+                "Also known as kongu and konganad.",
+                "Originated in Kangayam, Dharapuram, Perundurai, Erode, Bhavani and part of Gobichettipalayam taluk of Erode and Coimbatore district.",
+                "The Kangayam breed was developed by the efforts of the late Pattogar of Palayakottai, Sri N. Nallathambi Sarkari Manradiar.",
+                "Coat is red at birth, but changes to grey at about 6 months of age.",
+                "Bulls are grey with dark colour in hump, fore and hind quarters.",
+                "The horns are spread apart, nearly straight with a slight curve backwards.",
+                "Cows are grey or white. However, animals with red, black, fawn and broken colours are also observed.",
+                "The eyes are dark and prominent with black rings around them.",
+                "Moderate size with compact bodies.",
+            
+            "Bargur:",
+                "Found around Bargur hills in Bhavani taluk of Erode district.",
+                "Developed for work in uneven hilly terrains.",
+                "Bargur cattle are of brown colour with white markings. Some white or dark brown animal are also seen.",
+                "Animals are well built, compact and medium in size.",
+                "Known for their speed and endurance in trotting.",
+                "Cautious in behaviour and tends to remain away from strangers.",
+            
+
+            "Umblachery:",
+                "It is otherwise called asJathi madu, Mottai madu, Molai madu, Therkathi madu.",
+                "Originated inThanjavur, Thiruvarur and Nagappattinam districts of Tamil Nadu.",
+                "Suitable for wet ploughing and known for their strength and sturdiness.",
+                "Umblachery calves are generally red or brown at birth with all the characteristic white marking on the face, on limbs and tail.",
+                "The legs have white markings below the hocks like socks.",
+                "The practice of dehorning of bullocks is peculiar in Umblachery cattle. Unlike in other breeds the bullocks are dehorned.",
+        
+            "Pulikulam:",
+                "This breed is commonly seen in cumbum valley of Madurai district in Tamilnadu.",
+                "Also known as Jallikattu madu, kidai madu, sentharai.",
+                "Small in size, usually grey or dark grey with farm markings.",
+                "Well- developed hump.",
+                "Mainly used for penning in the field.",
+                "Useful for ploughing.",
+                "Presence of reddish or brownish spots in muzzle, eyes, switch and back is the characteristic feature of this breed. ",
+                "They have the typical backward curving horns of Mysore type cattle.",
+
+            
+
+            "Tharparkar:",
+                "Originated inTharparkar district (Pakistan) of undivided India and also found in Rajasthan.",
+                "Otherwise known as White Sindhi, Gray Sindhi and Thari.",
+                "They are medium sized, compact and have lyre-shaped horn.",
+                "Body colour is white or light grey.",
+                "The bullocks are quite suitable for ploughing and casting and the cows yield 1800 to 2600 kg of milk per lactation.",
+                "Age at first calving ranges from 38 to 42 months and inter calving period from 430 to 460 days.",
+
+            "Hariana:",
+                "It was originated from Rohtak, Hisar, Jind and Gurgaon districts of Haryana and also popular in Punjab, UP and parts of MP.",
+                "Horns are small.",
+                 "The bullocks are powerful work animals.",
+                "Hariana cows are fair milkers yielding 600 to 800 kg of milk in lactation.",
+                "The age at first calving is 40 to 60 months and calving interval is 480 to 630 days",
+
+            "Kankrej:",
+                "It is otherwise called as Wadad or Waged, Wadhiar.",
+                "Originated from Southeast Rann of Kutch of Gujarat and adjoining Rajasthan (Barmer and Jodhpur district).",
+                "The horns are lyre-shaped.",
+                "Colour of the animal varies from silver-grey to iron-grey or steel black.",
+                "The gait of Kankrej is peculiar called as 1 ¼ paces (sawai chal).",
+                "Kankrej is valued for fast, powerful, draught cattle. Useful in ploughing and carting.",
+                "The cows are good milkers, yielding about 1400 kg per lactation.",
+
+
+            "Ongole:",
+                "Otherwise known as Nellore.",
+                "Home tract is Ongole taluk in Guntur district of Andhra Pradesh.",
+                "Large muscular breed with a well developed hump.",
+                "Suitable for heavy draught work.",
+                "White or light grey in colour.",
+                "Average milk yield is 1000 kg per lactation. Age at first calving is 38 to 45 months and the intercalving period is 470 days.",
+                "Exported to south East Asian and American countries for development of meat cattle",
+            
+
+            "Krishna Valley:",
+                "Originated from black cotton soil of the water shed of the river Krishna in Karnataka and also found in border districts of Maharastra.",
+                "Animals are large, having a massive frame with deep, loosely built short body.",
+                "Tail almost reaches the ground.",
+                "Common colour grey white with a darker shade on fore quarters and hind quarters in male. Adult females are more whitish in appearance.",
+                "The bullocks of this breed are powerful animals useful for slow ploughing, and valued for their good working qualities.",
+                "The cows are fair milkers, average yield being about 900 kg per lactation.",
+            
+
+            "Deoni:",
+                "This breed otherwise known as Dongerpati, Dongari, Wannera, Waghyd, Balankya, Shevera.",
+                "Originated in Western Andra Pradesh and also found in Marathwada region of Maharashtra state and adjoining part of Karnataka.",
+                "Body colour is usually spotted black and white.",
+                "Age at first calving ranges from 894 to 1540 days.",
+                "Milk yield ranges from 636 to 1230 kg per lactation.",
+                "Caving interval averages 447 days.",
+                "Bullocks are suitable for heavy cultivation.",
+            
+        
+
+        "Exotic:",
+            "Jersey:",
+                "It is developed in the Jersey Island, U.K.",
+                "It is the smallest of the dairy types of cattle.",
+                "In India this breed has acclimatized well and is widely used in cross breeding with indigenous cows.",
+                "The typical colour of Jersey cattle is reddish fawn.",
+                "Dished fore head and compact and angular body.",
+                "These are economical producers of milk with 4.5% fat.",
+                "Average milk yield is 4500 kg per lactation.",
+                "Age at first calving is 25 to 30 months and calving interval is 13 to 14 months.",
+            
+            "Holstein Friesian:",
+                "This breed was developed in the northern parts of Netherlands, especially in the province of Friesland.",
+                "They are ruggedly built and they possess large udder.",
+                "They are the largest dairy breed and mature cows weigh as much as 700kg.",
+                "They have typical marking of black and white that make them easily distinguishable.",
+                "The average production of cow is 6000 to 7000 kg per lactation. However, the fat content in their milk is rather low (3.45 per cent).",
+                "Age at first calving is 29 to 30 months and calving interval is 13 to 14 months",
+            
+
+            "Brown Swiss",
+                "The mountainous region of Switzerland is the place of origin of Brown Swiss breed.",
+                "It is famous in its home tract for its rugged nature and good milk production.",
+                "Average milk yield is 5000 kg per lactation with 4% fat.",
+                "The Karan Swiss is the excellent crossbred cattle obtained by crossing this breed with Sahiwal cattle at NDRI, Karnal.",
+                "Age at first calving is 28 to 30 months and calving interval is 13 to 14 months",
+            
+            "Red Dane",
+                "Developed in Denmark.",
+                "The typical body colour of this Danish breed is red, reddish brown or even dark brown.",
+                "It is also a heavy breed; mature males weighing up to 950 kg and mature female weigh 600 kg.",
+                "The lactation yield of Red Dane cattle varies from 3000 to 4000 kg with a fat content of 4 per cent and above.",
+                "Age at first calving is 28 to 30 months and calving interval is 13 to 14 months.",
+            
+
+            "Ayrshire",
+                "Origin Ayrshire in Scotland is considered as most beautiful dairy breed. These are very active animals but hard to manage.",
+                "They do not produce as much milk or butter fat (only 4%) as some of the other dairy breeds. ",
+                "The breed was also known as Dunlop cattle or Cunningham cattle",
+            
+
+            "Guernsey",
+                "Originated from Small island of Guernsey in France.",
+                "Cherry red to brown in colour. Mahagony and white is a variation in colour.",
+                "The milk has a golden colour due to an exceptionally high content of beta carotene which may help to reduce the risks of certain cancers.",
+                "The milk also has a high butterfat content of 5% and a high protein content of 3.7%.",
+                "Guernsey cows produce around 6000 kg per lactation.",
+                "The Guernsey cow has many notable advantages for the dairy farmer over other breeds includes high efficiency of milk production, low incidence of calving difficulty and longevity.",
+        
+        
+
+        "crossbred",
+            "Jersey Cross",
+                   "Jersey crosses are produced by upgrading/ cross breeding the non descript / Indigenous breeds of cows with Jersey semen.",
+                   "Jersey crosses are suitable dairy animals for tropical plains of our country.",
+                   "They are medium sized, have better heat tolerance than other exotic crosses and well adapted to our climate.",
+                   "Depending on the milk production potential of our indigenous cows, the Jersey crosses may show 2 to 3 fold increase in milk yield in the first generation",
+            
+
+            "Holstein Friesian crosses",
+             "The HF crosses are more suitable for cooler climatic regions like hilly areas as they are less tolerant to heat.",
+             "Have less resistance to tropical diseases than Jersey crosses.",
+             "Although the milk yield is higher in HF crosses the fat per cent is less"
+            ],
+
+    "Care and Management of dairy animal":[   
+        "Care and Management of dairy animal:",
+        "Care and Management of Calf:",
+
+                       "We must give good feeding and management for the calves so that they develop well and, useful for replacement stock. The feeding and care of the calf being before its birth .The dam should be dried 6-8 weeks before expected calving and should be fed well. Under fed animals will give weak and small calves.",
+
+            "1.Early_Management",
+                "Immediately after birth remove any mucous or phlegm from those nose and mouth.",
+                "Normally the cow licks the calf immediately the birth. This helps’ dry off the calf and helps in stimulating breathing and circulation. When the cows does not lick or in cold climate, rub and dry the calf with a dry cloth or gunny bag. Provide artificial respiration by compression and relaxing the chest with hands.",
+                "The Naval should be tied about 2-5 cm away from the body and cut 1cm below the ligature and apply Tr. Iodine or boric acid or any antibiotic.",
+                "Remove the wet bedding from the pen and keep the stall very clean and dry in condition.",
+                "The weight of the calf should be recorded.",
+                "Wash the cow’s udder and teats preferably with chlorine solution and dry.",
+                "Allow the calf to suckle the first milk of the mother i.e. Colostrums.",
+                "The calf will be standing and attempts to nurse within one hour. Otherwise help too weak calves.",
+            
+            "2.Feeding_of_Calves",
+                "Feed colostrums i.e. the first milk of the cow for the first 3 days. The colostrums is thick and viscous. It contains higher proportions of Vitamin A Care and management of dairy animal 53 and proteins. The proteins are immune globulin which gives protection against many diseases. Colostrums contains anti trypsin which avoid digestion of immunoglobulin in the stomach and is absorbed as it is.",
+                "Whole milk should be given after 3 days it is better to teach to, drink the milk from the pail or bucket. Feed twice a day which should be warmed to body temperature. For weak calves feed thrice a day.",
+                "The limit of liquid milk feeding is 10 % of it’s body weight with a maximum of 5-6 liters per day and continue liquid milk feeding for 6.10 weeks.  Over feeding causes ‘Calf Scours’.",
+                "The milk replaces can be given to replace whole milk.",
+                "Give calf starter after one month of age.",
+                "Provide good quality green fodder and hay from 4‘h month afterwards.",
+                "Feeding of antibiotics to calves improves appetite, increases growth rate and prevents calf scours. E.g. aureomycin, Terramycin etc",
+            
+         
+            "CARE AND MANAGEMENT OF HEIFER",
+             "1.Heifer",
+                "Better Care and Management of heifer will give high quality replacement stock to the dairy farm",
+                "Feed the heifer sufficiently to produce normal growth. During the early stage relatively more protein than energy is needed. Most heifers grow well if excellent hay is given as much they can eat. The amount of growth depends upon the quality of forage fed.",
+                "The heifers should be provided with a dry shelter free from drafts. A loose housing system with a shelter open to one side is sufficient.",
+                "The size rather than the age of a dairy heifer at breeding time is important. Breeding under sized animals is never profitable. They may be stunted or slow to reach maximum size. Small heifers are more likely to have difficulty in calving. Though the heifer that is bred to calve at an older age yields higher milk yield in the first lactation, the total milk produced by such a cow will be less when compared to the heifers that freshens at an",
+                "The heifer should be growing and in good flesh at calving time. This is necessary so that she can produce milk at the most profitable level.",
+                "Place the heifer in a separate shed about 6-8 weeks before she is due to calve.",
+                "Feed 2 - 3 kg of concentrate daily and all the forage she eats.",
+                "Before calving let the heifer becomes accustomed to handling and to the procedures used in the milking herd. Always handle her gently and with kindness.",
+                "Maintenance of health among heifers is very important for proper growth. The health among the heifers is maintained by hygienic housing, water balanced feeding and taking necessary preventive steps against common diseases.",
+                "Periodically the heifers in the herd should be checked for their proper growth and other progress. Animals lagging behind below the required standards should be removed from the herd.",
+                "For the heifer the calving is first time and it may have difficulty in calving. So take extra care during calving.",
+               
+            
+
+        
+            "CARE AND MANAGEMENT OF MILCH ANIMAL",
+                    "Provide green succulent forage together with leguminous hay or straw to the extent of animal can consume, so that all its maintenance requirements are met with through forage only. Extra concentrate at the rate of 1 kg for every 2 to 2.5 liters of milk should be provided. Salt and mineral supplements should be given to maintain the lactation.",
+                    "Never frighten or excite the animals. Always treat them gently and with kindness.",
+                    "With proper feeding and care, a cow will come to heat with in 16 days of calving. Do not with hold service unnecessarily after the signs of heat are noticed in a cow. The shorter the interval between calving, the more efficient the animal is as a milk producer. By maintaining proper records of breeding and calving of the animals will ensure a study flow of milk through out the year.",
+                    "Individual attention to feed each animal according to its production is a must. For this purpose maintain individual production records.",
+                    "Keep up regularity of feeding. Concentrate mix is fed before or during milking, when as roughages after milking. This practice will avoid dust in the shed.",
+                    "Water should be provided to drink at will or at frequent intervals. It is more beneficial, if the animal is maintained on paddy straw as sole rough age.",
+                    "Regularity in milking is essential. Increase of milk in the udder will reduce further secretion of milk. Milking thrice is better than twice since 10 - 15 % more milk can be produced.",
+                    "Rapid, continuous, dry hand milking should be practiced without undue jerking of teats. milking should be done with whole hand, but not with thumb and index finger.",
+                    "Cows should be trained to let down milk without calf suckling. This will held to wean the calves early.",
+                    "Loose housing with shelter during hot part of the day should be provided. The animals will get maximum exercise in loose housing system.",
+                    "Grooming of the cows and washing of the buffaloes before milking help in clean milk production. Daily brushing will remove loose hair an dirt from the coat. Grooming will also keep the animal hide pliable.",
+                    "Wallowing of buffaloes or water spraying on their bodies will keeI6 the buffaloes comfortable especially in summer.",
+                    "Common ailments should be properly detected and treated.",
+                    "Common vices should be properly detected and care should be taken. Eg: Kicking, licking, suckling etc.",
+                    "Provide at least 60 - 90 days dry period between calving. If the dry period is not sufficient, the milk yield is subsequent lactation will be reduced.",
+                    "Vaccinate the cows- against important diseases and also guard against insects and pests.",
+                    "Every animal should be numbered and particulars pertaining to milk, fat %, feed taken, breeding, drying and calving dates should be recorded.",
+                    "Check for mastitis regularly",
+
+            "CARE AND MANAGEMENT OF DRY AND PREGNANT ANIMAL:",
+            "The good care and manage mental practices given to pregnant animal will give good calf and also high milk yield during the successive lactation.",
+                
+
+            "CARE AND MANAGEMENT OF BULLS AND BULLOCKS:",
+                    "Extra concentrate mix of 1.25 to 1.75 kg should be provided for pregnant animal as pregnancy allowance. Feed good quality of leguminous fodder. The animal should not be not - lean - not fat’ condition.",
+                    "Provide clean drinking water and protection from thermal stress.",
+                    "Do not allow them to mix with other animals that have aborted or that are suffering from or carriers of diseases like brucellosis.",
+                    "Allow moderate exercise, which helps in calving normally.",
+                    "Do not tire them by making long distances especially on uneven surfaces.",
+                    "Do not allow them to fight with other animals and take care that they are not chased by dogs and other animals.",
+                    "Avoid slippery conditions, which causes the animal to fall receiving fractures, dislocation etc.",
+                    "If accurate breeding records are available, calculate the expected date of calving. Separate it one or 2 weeks before and shifted to individual parturition pens.",
+                    "These pens are thoroughly cleaned and fresh bedding may be provided.",
+                    "Feed one kg extra concentrates during last 8 weeks of gestation.",
+                    "Feed laxative about 3 - 5 days before and after calving (Wheat bran 3 kg + 0.5 gm of Groundnut cake + 100 gm of mineral mixture of salt).",
+                    "Symptoms of delivery may be observed i.e. swelling of external genetalia, swelling of udder; usually majority of animals will deliver without any help. If there is any difficulty, provide veterinary help.",
+                    "After parturition external genital, flank should be cleaned arid protect the animal from chill and give warm wafer.",
+                    "Placenta will normally leave the cow within 2 - 4 hours after calving. It not take the help of a veterinarian. Take care of the animal before calving from milk fever.",
+                    "Give calcium supplement. Some times the udder will be swollen just before calving. Remove the milk partially. Take care, of the animal, if at all any abortion. Provide always free access to drinking water."
+                
+            ] ,      
+        
+    "Economic Character in Dairy Cattle":[
+        "Economic Character in Dairy Cattle:",
+        "1.Lactation yield\n\nThe lactation yield in a lactation period is known as lactation yield. ‘The lactation yield in Indian breeds is very low compared to exotic breeds. This is dependent on no.. of calving, frequency of milking, persistency of yield .Normally in dairy cattle 30 - 40 % increase in milk production from first lactation to maturity is observed. After 3 or 4 lactation the production starts declining. For comparison of milk yield of different breeds and animals the milk yield should be converted into fat corrected milk (FCM). 4% FCM = 0.4 total milk + 15 total fat. After parturition the milk yield per day will be increased and reaches peak within 2-4 weeks after calving. This yield is known as peak yield. The maintenance of peak yield for more time is importance for better milk production. The lactation period in Indian breeds is low and so the production is also less and conversion.",
+        "2. Lactation period\n\nThe length of milk producing period after calving is known as lactation period. The optimum lactation period is 305 days. The milk production will Breeding of dairy animals and farm records wil be less, if this period is shortened. Indian breeds will have less lactation period, but in some breeds this period is more with very little milk production.",
+        "3. Persistency of Milk Yield\n\nDuring lactation period the animal reaches maximum milk yield per day with in 2-4 weeks which is called peak yield. For high level of lactation yield, this peak yield should be maintained for longer period as far as possible, The maintenance of peak yield for long period is known as persistency, slow decrease in dairy milk yield after reaching peak yield in necessary. High persistency is necessary to maintain high level of milk production.",
+        "4. Age at first calving\n\nThe age o the animal at first calving is very important for high life time production. The desirable age at first calving in Indian breeds is 3 years, 2 years in cross breed cattle and 3 1/2 years in Buffaloes. Prolonged age at first calving will have high production in the first lactation) but the life time production will be decreased due to less no of  calving. If the age at first calving is below optimum, the calves born are weak, difficulty in calving and less milk production in first lactation.",
+        "5. Service period\n\nIt is the period between -date of calving and date of successful conception. The optimum service period helps the animal to recover from the stress of calving and also to get back the reproductive organs back to normal For cattle the optimum service period is 60-90 days. If the service period is too prolonged the calving interval prolonged, less no. of calving will be obtained in her life time and ultimately less life time production.’ If the service period is too short, the animal will become weak and persistency of milk production is poor due to immediate pregnancy.",    
+        "6. Dry Period\n\nIt is the period from the date of drying (stop of milk production) to next calving. When the animal in pregnancy, before next calving. The animal should be given rest period to compensate for growth of foctus. A minimum of 2 – 2 ½ months dry period should be allowed) If the dry period is not given or too low dry period, the animals suffer from stress and in next lactation, the milk production drops substantially and also it gives weak calves. On the other hand if the dry period given is too high, it may not have that much effect on increasing milk yield in the next lactation, but it decrease the production in the present lactation.",
+        "7. Intercalving period\n\nThis is the -period between two successive calving. It is more, profitable to have one calf yearly in cattle and at least one calf for every 15 months in buffaloes. If the calving interval is more, the total no. of carvings in her life time will be decreased and also total life production of milk decrease.",
+        "8. Reproductive Efficiency\n\nThe reproductive efficiency means the more number of calves during life time, so that total life time production is increased, The reproduction or breeding efficiency is determined by the combined effect of hereditary and environment. Several measures of breeding efficiency like number of services per conception, calving interval, and days from first breeding to conception are useful. Reproductive efficiency has generally a low heritability value indicating that most of the variations in this trait is due to non genetic factors. In adverse environmental conditions, the poor milk producing animals may not be much affected compared to high effect in high milk yield.",
+        "9. Efficiency of Feed Utilization and Conversion into Milk\n\nThe animal should take the feed more and utilize efficiently to convert into the milk.",
+        "10. Disease Resistance\n\nIndian breeds are more resistant to majority of disease compared to exotic cattle. Cross breeding helps to get this character."
+    ],
+
+    "SELECTION OF DAIRY CATTLE ":[
+        "SELECTION OF DAIRY CATTLE ",
+      "Proper selection is the first and the most important step to be adopted in dairying. Records are the basis of selection and hence proper identification of animals and record keeping is essential. Cross-breed animals with exotic inheritance of about 50 percent are preferable. This preference is based on comparison of the performance of the animals with different percentage of exotic inheritance. Fifty percent of the native germplasm is helpful to retain the adaptability, heat tolerance and disease resistance traits of local animals, in cross breeds. The utilization of the Zebu (Sahiwal) germplasm in the formation of breeds like Australian Friesian Sahiwal (50% of Holstein and 50% Sahiwal) and its international recognition as a breed for the tropics is an example.",
+
+      "Maintaining animals sustainable to the situation is the best policy. Bringing animals from different agro-climatic conditions causes problems due to non-adjustment in many cases. In case, purchase becomes absolutely essential it should be from similar environmental conditions as far as possible.",
+      
+      "General selection procedures for dairy breeds",
+      
+      "Selection of dairy cows",
+      "Selecting a calf in calf show, a cow in cattle show by judging is an art. A dairy farmer should build up his own herd by breeding his own herd. Following guidelines will be useful for selection of a diary cow.",
+      
+      "whenever an animal is purchased from a cattle fair, it should be selected based upon its breed characters and milk producing ability",
+      "History sheet or pedigree sheet which are generally maintained in organized farms reveals the complete history of animal",
+      "The maximum yields by dairy cows are noticed during the first five lactations. So generally selection should be carried out during First or Second lactation and that too are month after calving.",
+      "There successive complete milking has to be done and an average of it will give a fair idea regarding production by a particular animal.",
+      "A cow should allow anybody to milk, and should be docile.",
+      "It is better to purchase the animals during the months of October and November.",
+      "Maximum yield is noticed till 90 days after calving.",
+      "Breed characteristics of high yielding dairy cows",
+      
+      "Attractive individuality with feminity, vigour, harmonious blending of all parts, impressive style and carriage",
+      "Animal should have wedge shaped appearance of the body",
+      "It should have bright eyes with lean neck",
+      "The udder should be well attached to the abdomen",
+      "The skin of the udder should have a good network of blood vessels",
+      "All four quarters of the udder should be well demarcated with well placed teats."
+    ],
+    "CULLING OF DAIRY ANIMALS":[
+        "CULLING OF DAIRY ANIMALS:",
+        "Culling is elimination or weeding out of undesirable animals from the herd, for reasons of uneconomic,, poor production, or very poor reproductive ability, with sterility problems and breeding, irregularities, very poor conditions, stunted growth, suffering from incurable illness, or disease animals found to be positive for serious infections diseases like Tuberculosis, Johnes disease, Brucellosis, lost one or more quarters and teats of the under due to chronic mastitis resulting in marked reduction in milk production.",
+
+        "Undesirable breed characters present in young animal. When the herd is a pure bred herd leading to disqualifications family lines, exhibiting heritable characters like supernumerary teats, loose horns in cows of certain breeds.",
+        
+        "Disable animals due to injury or loss of organ, extreme lameness leading to unmentionable conditions, un healed fractured animals etc. come under the animal proposed or culling.",
+        
+        "The culled animals carry lower values and a separate list is made for such called animals and it is known as culling list.",
+        "When the culling cows for poor production, the entire lactation at yield is considered and preferably first two lactations are observed and if the lactation yield is less than what is expected from the breed or herd, The animal is included in the culling list. Very old animals are culled, as their maintenance will be uneconomical.",
+
+        "Male animals or other animals surplus in the farm or not useful in the farm and they are culled. Calves born with congenital defects like congenital fibrosis of the eye, total blindness or some other defects are included in the culling. Calves born much below the normal birth weight are included in the culling. Yearlings animals male or females, stunted much below their normal body weight, potbellied conditions bad confirmation are culled. Dairy Animal Management Valuation and culling is done on the farms every year at least once in year. In some farms culling is done twice a year however doing it once a year is must",
+
+        "Culling in dairy animals 10 points:",
+
+        "Do not move non-ambulatory animals to market under any circumstances.",
+        "Make the decision to treat, to cull, or to euthanize animals promptly. Sick and injured animals should be segregated from the herd",
+        "Delay transport of an animal that appears to be exhausted or dehydrated until the animal is rested, fed, and dehydrated.",
+        "Milk all cows that are still lactating just prior to transporting to a packing or processing facility.",
+        "Use a transportation company that is knowledgeable about your animal care expectations and provides for the safety and comfort of the animals during transport.",
+        "Do not transport animals to a packing or processing facility until all proper treatment withdrawal times have been followed.",
+        "Do not transport animals with a poor body condition, generally a Body Condition Score of less than 2 (1-5 scale).",
+        "Do not transport animals that require mechanical assistance to rise and are reluctant or unable to walk, except for veterinary treatment. When using any handling device, abuse must not be tolerated.",
+        "Do not transport animals with bone fractures of the limbs or injuries to the spine. Animals with a recent fracture unrelated to mobility should be culled and transported directly to a packing or processing facility.",
+        "Do not transport animals with conditions that will not pass pre-slaughter inspection at a packing or processing facility. If unsure, consult with your veterinarian before transporting an animal to a packing or processing facility"
+    ]
+
+   
+}
+    }
+}
+}
+
+
+    
+
+
+
+  
